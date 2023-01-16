@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import Style from './BaseLayout.module.scss'
 import Navbar from "./Navbar";
 import Home from "./home/Home";
-import {Route, Routes} from "react-router-dom";
+import {BrowserRouter as Router,Route, Routes} from "react-router-dom";
 import {Box, Grid} from "@mui/material";
 
 export default function BaseLayout() {
@@ -34,7 +34,7 @@ export default function BaseLayout() {
             </Grid>
             <Grid item flexGrow={1}>
                <Routes>
-                  <Route exact path={'/'} element={<Home/>}/>
+                  <Route exact path={'/Portfolio'} element={<Home/>}/>
                </Routes>
             </Grid>
             <Grid item>
