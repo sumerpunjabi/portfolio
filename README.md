@@ -5,7 +5,7 @@
 
 <br/>
 
-![Alt text](public\home.png?raw=true "Portfolio")
+![Alt text](public/home.png?raw=true "Portfolio")
 
 ## Built With
 
