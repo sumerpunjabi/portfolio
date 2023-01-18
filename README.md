@@ -5,6 +5,8 @@
 
 <br/>
 
+![Alt text](public\home.png?raw=true "Portfolio")
+
 ## Built With
 
 My personal portfolio <a href="https://www.sumerpunjabi.live" target="_blank">sumerpunjabi.live</a> which features my resume, technical skills and socials<br/>
