@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Accessible Object Detection App",
+        "shortDescription": "AODA is a mobile app built using Flutter and Python, integrated with TensorFlow. Abides by Accessibility for Ontarians with Disabilities Act rules.",
+        "image": "/static/img/thumbs/aoda.png",
+        "link": "https://github.com/sumerpunjabi"
+    },
+    {
+        "title": "Olympics API",
+        "shortDescription": "A REST API was developed to provide comprehensive historical data on the Olympics. Built using Python, FastAPI, Git, and MySQL.",
+        "image": "/static/img/thumbs/olympics.png",
+        "link": "https://github.com/sumerpunjabi/olympics-api"
+    },
+    {
+        "title": "Directory Encryption",
+        "shortDescription": "Utilizing Python, this application features both RSA and AES encryption methodologies to protect user files and data.",
+        "image": "/static/img/thumbs/direncrypt.png",
+        "link": "https://github.com/sumerpunjabi/Directory-Encryption"
+    },
+    {
+        "title": "Meme Delivery Bot",
+        "shortDescription": "MemeDeliveryBot is a Python-based project designed to automate the process of delivering memes from Reddit to Instagram.",
+        "image": "/static/img/thumbs/memedog.jpg",
+        "link": "https://github.com/sumerpunjabi/MemeDeliveryBot"
+    }
+]

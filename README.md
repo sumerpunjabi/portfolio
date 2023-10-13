@@ -1,19 +1,19 @@
-<h2 align="center">
-  Portfolio Website<br/>
-  <a href="https://www.sumerpunjabi.live" target="_blank">sumerpunjabi.live</a>
-</h2>
+<br />
+<div align="center">
+  <a href="">
+    <img src="public/static/img/thumb.png" alt="Logo" width="315" height="315">
+  </a>
 
-<br/>
+  <h3 align="center">sumerpunjabi.live</h3>
 
-![Alt text](public/home.png?raw=true "Portfolio")
+  <p align="center">
+    Portfolio Website
+    <br />
+    <a href="https://sumerpunjabi.live/" target="_blank"><strong>» CHECK IT OUT »</strong></a>
+    <br />
+  </p>
+</div>
 
-## Built With
+## About
 
-My personal portfolio <a href="https://www.sumerpunjabi.live" target="_blank">sumerpunjabi.live</a> which features my resume, technical skills and socials<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- CSS3
-- Deployed using Netlify
+Developed using HTML, CSS, JavaScript, React and NextJS. Hosted on GitHub Pages.
