@@ -6,9 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d .next"
+    "lint": "next lint"
   },
   "dependencies": {
     "browserslist": "^4.22.1",
@@ -25,7 +23,6 @@
   "devDependencies": {
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
-    "gh-pages": "^6.0.0",
     "lint-staged": "^13.2.1"
   },
   "lint-staged": {
