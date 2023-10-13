@@ -15,7 +15,7 @@ const Contact = () => {
               <div className="mx-auto">
                 <h4>Let's connect.</h4>
                 <p>
-                From discussing the intricacies of tech, exchanging the latest memes, 
+                From discussing the intricacies of tech to exchanging the latest memes, 
                 I'm always up for a chat.
                 </p>
                 <ul>

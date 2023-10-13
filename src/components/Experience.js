@@ -26,8 +26,7 @@ const Experience = () => {
               courses.
             </li>
             <li>
-              Provided study guides, proctored exams, and addressed student
-              queries.
+              Provided study guides, proctored exams, and addressed student queries.
             </li>
             <li>
               <b>Conducted</b> engaging <b>workshops</b> for over{" "}
