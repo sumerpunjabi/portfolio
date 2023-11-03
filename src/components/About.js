@@ -17,8 +17,9 @@ const About = () => {
                     src="/static/img/about-me.jpg"
                     width={500}
                     height={500}
-                    title="An image collage showing some recent photos i've clicked"
-                    alt="An image collage showing some recent photos i've clicked"
+                    style={{ width: "100%", height: "auto" }}
+                    title="An image of me and my brother"
+                    alt="An image of me and my brother"
                   />
                 </div>
               </div>
